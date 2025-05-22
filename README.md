@@ -1,1 +1,1 @@
-# odin-recipes
+Practice HTML and Git via creating a simple website related to food recipes that contains a home page and 3 separate recipe pages.
